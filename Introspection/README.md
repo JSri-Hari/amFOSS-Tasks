@@ -1,9 +1,6 @@
 # INTROSPECTION
 ### Why must we choose you?
-I when i studied java in class 10 thought of making my carrer in coding field because i love it.I never get bored of doing it.Coding for me
-is just like what cricket is to a cricketer that is the one thing i would love to do my whole life.I think amfoss will guide me to the path 
-where i can learn more about my passion.I personally feel that seeing this passion of mine amfoss can think of choosing me for the club.I
-am a bit lazy in doing my work but this is not same when it comes to coding and tech related stuffs.
+I started studying JAVA programming in class 10th and enjoyed the time by analyzing complex coding. I learned some loops and almost revised the Computer Applications subject twice that year. That year I concluded to include coding field in my career. I really like to explore more in this coding field and grow my skills. I am really may be lazy in work but not when it comes to coding and digital technology.
 ### What is your plan for the next 6 months?
 I seeing that flutter task was amazed i read many stuffs about that seeing that my dream to become an Android Developer became more
 predominant.I want to go ahead in this field as much as i can in the next 6 months and i am sure that if i got selected for amfoss i can
